@@ -1,10 +1,10 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
+name: Jayden Stryker
+display_name: Jayden
+position: CTO
+bio: Likes reading about engineering.
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
