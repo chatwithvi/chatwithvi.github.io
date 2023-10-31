@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Delvi
+title: Delvi | Talk to what is written
+description: Delvi is a new kind of store where you can chat with what is written - talk to books, their characters, or your personal notes and articles. You are what you read, and your personal AI should be too.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - bookstore
+  - eBooks
+  - AI
+  - artificial intelligence
+  - startup
+  - chatbot
 show_hero: true
 menu:
   - title: Home
