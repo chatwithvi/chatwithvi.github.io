@@ -17,8 +17,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Chat
+    url: https://chatwithvi.com/
 email: support@delvi.org
 # See: https://disqus.com/
 disqus_username: disqus_username
