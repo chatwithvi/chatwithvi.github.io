@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2023-10-31T21:05:05.000Z
 layout: post
 title: You are what you read
 subtitle: 'This is a new kind of store with a new kind of AI where you can chat with written content. We're bringing generative AI to life with books, and bringing books to life with generative AI.'
@@ -8,7 +8,7 @@ description: >-
 image: >-
   assets\img\vi_dreaming.png
 optimized_image: >-
-  assets\img\vi_dreaming.png
+  assets\img\vi_dreaming_optimized.png
 category: blog
 tags:
   - welcome
