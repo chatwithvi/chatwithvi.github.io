@@ -6,9 +6,9 @@ subtitle: 'This is a new kind of store with a new kind of AI where you can chat 
 description: >-
   We're bringing generative AI to life with books, and bringing books to life with generative AI.
 image: >-
-  https://github.com/chatwithvi/chatwithvi.github.io/blob/main/assets/img/vi_dreaming.jpg
+  https://res.cloudinary.com/df7lcqknx/image/upload/v1698802718/vi_dreaming_cigu8v.jpg
 optimized_image: >-
-  https://github.com/chatwithvi/chatwithvi.github.io/blob/main/assets/img/vi_dreaming_optimized.jpg
+  https://res.cloudinary.com/df7lcqknx/image/upload/v1698802718/vi_dreaming_optimized_koynwy.jpg
 category: blog
 tags:
   - welcome
