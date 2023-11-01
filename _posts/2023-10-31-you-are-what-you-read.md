@@ -13,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: jstryker
 paginate: true
 ---
 
