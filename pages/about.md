@@ -7,7 +7,7 @@ description: About us.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/Vi_dreaming_post.png" alt="J Stryker" width="200">
+<img class="img-rounded" src="/assets/img/uploads/Vi_dreaming_post.png" alt="J Stryker" width="640">
 
 # About
 
