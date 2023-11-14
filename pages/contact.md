@@ -9,5 +9,7 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/Vi_dreaming_post.png" alt="EKO" width="640">
 
-# About
-We build AI tools for interacting with the written word, and work with the written word to build better AI.
+# Chat with us
+E-mail us at supoort@delvi.org and let us know what you think.
+
+

@@ -13,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: jstryker
+author: EKO
 paginate: true
 ---
 
