@@ -1,8 +1,8 @@
 ---
 date: 2019-05-16T23:48:05.000Z
 layout: post
-title: You are what you read
-subtitle: 'You are what you read, and your AI should be too'
+title: We are what We read
+subtitle: 'We are what we read, and our AI are too'
 description: >-
   We're bringing generative AI to life with books, and bringing books to life with generative AI.
 image: >-
