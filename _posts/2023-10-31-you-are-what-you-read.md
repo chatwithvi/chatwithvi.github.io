@@ -1,8 +1,8 @@
 ---
 date: 2023-10-16T21:48:05.000Z
 layout: post
-title: We are what We read
-subtitle: 'We are building a bookstore for you and your personal AI.'
+title: We are what we read
+subtitle: 'We are building a bookstore for you and your AI.'
 description: >-
   We're bringing generative AI to life with books, and bringing books to life with generative AI.
 image: >-
