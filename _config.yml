@@ -19,6 +19,8 @@ menu:
     url: /team
   - title: Contact
     url: /contact
+  - title: Legal
+    url: /legal
   - title: Chat Now
     url: https://chatwithvi.com/
 email: support@delvi.org
