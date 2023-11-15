@@ -18,6 +18,8 @@ menu:
     url: /team
   - title: Contact
     url: /contact
+  - title: Legal
+    url: /contact
 #  - title: Feed
 #    url: /feed.xml
 email: support@delvi.org
