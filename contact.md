@@ -7,7 +7,7 @@ description: About us.
 permalink: /contact/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/Vi_dreaming_post.png" alt="EKO" width="640">
+<img class="img-rounded" src="/assets/img/uploads/00175-1031268944_post.png" alt="EKO" width="640">
 
-# About
-We build AI tools for interacting with the written word, and work with the written word to build better AI.
+# Contact us
+E-mail us at customersupport@delvi.org and let us know how we're doing.
