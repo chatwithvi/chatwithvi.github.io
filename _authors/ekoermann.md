@@ -1,10 +1,10 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: Jayden Stryker
-display_name: Jayden Stryker
-position: CTO
-bio: ePub wizard, data scientist and full stack visionary. Likes Programming and Russian Literature.
+name: Eric Oermann
+display_name: Eric Oermann
+position: CEO
+bio: AI researcher, Neurosurgeon, Entrepreneur, Curious Individual with a meandering career researching intelligence in all its forms. Likes English Literature and Graphic Novels.
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
