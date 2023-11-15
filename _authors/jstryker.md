@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/js_portrait.png
+photo: /assets/img/uploads/js_portrait.jpeg
 name: Jayden Stryker
 display_name: Jayden Stryker
 position: CTO
