@@ -214,11 +214,7 @@ Delvi welcomes your questions or comments regarding the Terms, Privacy Policy, a
 Delvi Inc. 
 218 East 30th Street 
 New York, New York 10016 
-    
-Email Address: 
-customerservice@delvi.org 
-  
-Telephone number: 
-6465048379 
+Email Address: customerservice@delvi.org 
+Telephone number: 6465048379 
   
 Effective as of November 01, 2023 
