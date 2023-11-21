@@ -1,0 +1,30 @@
+name: Delvi
+title: Delvi | Talk to what is written
+description: Delvi is a new kind of store where you can chat with what is written - talk to books, their characters, or your personal notes and articles. You are what you read, and your personal AI should be too.
+tags:
+  - bookstore
+  - eBooks
+  - AI
+  - artificial intelligence
+  - startup
+  - chatbot
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Team
+    url: /team
+  - title: Contact
+    url: /contact
+  - title: Legal
+    url: /legal
+#  - title: Feed
+#    url: /feed.xml
+email: support@delvi.org
+# See: https://disqus.com/
+disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
