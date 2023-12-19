@@ -207,6 +207,8 @@ We have a policy of terminating the accounts of subscribers who are repeat infri
 ### Changes to Terms 
 Delvi reserves the right, in its sole discretion, to change the Copyright Policy under which all content on https://chatwithvi.com is offered. The most current version of the Copyright Policy will supersede all previous versions. Delvi encourages you to periodically review the Copyright Policy to stay informed of our updates. 
 
+### Google User Data
+Delvi will use the email and username associated with your google account for enhancing the chat expirence with Vi. Emails will be used for necessary account communications. Your data is privately stored within our servers and we do not share your google user account data with any entities. 
 
 # Contact Us 
 Delvi welcomes your questions or comments regarding the Terms, Privacy Policy, and Copyright Policy: 
